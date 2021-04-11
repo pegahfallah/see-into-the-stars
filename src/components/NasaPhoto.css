@@ -1,0 +1,45 @@
+.nasa-container {
+  background: black;
+  margin: auto;
+  padding: 4%;
+  height: 100vh;
+  font-family: "Lexend";
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+iframe {
+  width: 80%;
+  height: 80%;
+}
+
+.navbar {
+  background: black;
+  width: 100%;
+}
+
+.navbar a {
+  font-family: "Lexend";
+  text-decoration: none;
+  font-size: 2em;
+  color: aliceblue;
+}
+
+.navbar a:hover {
+  color: aqua;
+}
+
+.explanation {
+  color: azure;
+  padding-top: 4%;
+}
+
+.title {
+  color: azure;
+}
+
+.date {
+  color: azure;
+}
